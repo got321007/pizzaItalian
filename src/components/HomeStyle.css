@@ -1,0 +1,69 @@
+.GroupLoginSignup{
+    margin-left: 60%;
+}
+.logo{
+    margin-left: 10%;
+}
+.divpizzaimg{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background-image: url(../img/pizza.jpg);
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+}
+.pizzaimg{
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+}
+.nameshop{
+    margin: 15% 0 0 40%;
+}
+.textnameshop{
+    display: flex;
+    justify-content: center;
+}
+.textnameshop p{
+    text-align: center;
+    font-size: 7rem;
+    line-height: 7rem;
+    font-weight: bolder;
+    font-family: 'Allison', cursive;
+    color: rgb(255, 255, 87);
+}
+.textslogan p {
+    text-align: center;
+    font-size: 2rem;
+    font-weight: bolder;
+    font-family: 'Azeret Mono', monospace;
+    color: #ffff;
+}
+@media screen and (max-width: 991px) {
+    .GroupLoginSignup{
+        margin-left: 0;
+    }
+    .divpizzaimg{
+        background-position: right;
+        background-size: cover;
+    }
+    .nameshop{
+        margin: 40% 0 0 20%;
+    }
+    .textnameshop p{
+        text-align: center;
+        font-size: 4rem;
+        font-weight: bolder;
+        font-family: 'Allison', cursive;
+        line-height: 4rem;
+        color: rgb(255, 255, 87);
+    }
+    .textslogan p {
+        text-align: center;
+        font-size: 1rem;
+        font-weight: bolder;
+        font-family: 'Azeret Mono', monospace;
+        color: #ffff;
+    }
+}
