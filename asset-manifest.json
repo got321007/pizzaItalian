@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/pizzaItalian/static/css/main.7cd9a313.chunk.css",
-    "main.js": "/pizzaItalian/static/js/main.5dcdcbc8.chunk.js",
-    "main.js.map": "/pizzaItalian/static/js/main.5dcdcbc8.chunk.js.map",
-    "runtime-main.js": "/pizzaItalian/static/js/runtime-main.5fc4d0f7.js",
-    "runtime-main.js.map": "/pizzaItalian/static/js/runtime-main.5fc4d0f7.js.map",
-    "static/js/2.4c8fac53.chunk.js": "/pizzaItalian/static/js/2.4c8fac53.chunk.js",
-    "static/js/2.4c8fac53.chunk.js.map": "/pizzaItalian/static/js/2.4c8fac53.chunk.js.map",
-    "static/js/3.0e3a345a.chunk.js": "/pizzaItalian/static/js/3.0e3a345a.chunk.js",
-    "static/js/3.0e3a345a.chunk.js.map": "/pizzaItalian/static/js/3.0e3a345a.chunk.js.map",
-    "index.html": "/pizzaItalian/index.html",
-    "static/css/main.7cd9a313.chunk.css.map": "/pizzaItalian/static/css/main.7cd9a313.chunk.css.map",
-    "static/js/2.4c8fac53.chunk.js.LICENSE.txt": "/pizzaItalian/static/js/2.4c8fac53.chunk.js.LICENSE.txt",
-    "static/media/pizza-box.png": "/pizzaItalian/static/media/pizza-box.fe269495.png",
-    "static/media/HomeStyle.css": "/pizzaItalian/static/media/pizza.635c0685.jpg"
+    "main.css": "/react-auth/static/css/main.18b67f5a.chunk.css",
+    "main.js": "/react-auth/static/js/main.4cc2c746.chunk.js",
+    "main.js.map": "/react-auth/static/js/main.4cc2c746.chunk.js.map",
+    "runtime-main.js": "/react-auth/static/js/runtime-main.38531eb3.js",
+    "runtime-main.js.map": "/react-auth/static/js/runtime-main.38531eb3.js.map",
+    "static/js/2.4c8fac53.chunk.js": "/react-auth/static/js/2.4c8fac53.chunk.js",
+    "static/js/2.4c8fac53.chunk.js.map": "/react-auth/static/js/2.4c8fac53.chunk.js.map",
+    "static/js/3.0e3a345a.chunk.js": "/react-auth/static/js/3.0e3a345a.chunk.js",
+    "static/js/3.0e3a345a.chunk.js.map": "/react-auth/static/js/3.0e3a345a.chunk.js.map",
+    "index.html": "/react-auth/index.html",
+    "static/css/main.18b67f5a.chunk.css.map": "/react-auth/static/css/main.18b67f5a.chunk.css.map",
+    "static/js/2.4c8fac53.chunk.js.LICENSE.txt": "/react-auth/static/js/2.4c8fac53.chunk.js.LICENSE.txt",
+    "static/media/pizza-box.png": "/react-auth/static/media/pizza-box.fe269495.png",
+    "static/media/HomeStyle.css": "/react-auth/static/media/pizza.635c0685.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.5fc4d0f7.js",
+    "static/js/runtime-main.38531eb3.js",
     "static/js/2.4c8fac53.chunk.js",
-    "static/css/main.7cd9a313.chunk.css",
-    "static/js/main.5dcdcbc8.chunk.js"
+    "static/css/main.18b67f5a.chunk.css",
+    "static/js/main.4cc2c746.chunk.js"
   ]
 }
