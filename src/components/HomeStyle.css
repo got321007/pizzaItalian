@@ -19,6 +19,7 @@
     overflow: hidden;
 }
 .nameshop{
+    position: fixed;
     margin: 15% 0 0 40%;
 }
 .textnameshop{
@@ -49,11 +50,12 @@
         background-size: cover;
     }
     .nameshop{
-        margin: 40% 0 0 20%;
+        position: fixed;
+        margin: 55% 0 0 20%;
     }
     .textnameshop p{
         text-align: center;
-        font-size: 4rem;
+        font-size: 3.5rem;
         font-weight: bolder;
         font-family: 'Allison', cursive;
         line-height: 4rem;

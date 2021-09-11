@@ -32,24 +32,24 @@ const Home = () => {
             <ul className="navbar-nav">
               {currentUser ? (
                 <li className="nav-item">
-                  <a className="nav-link" href="/dashboard">
+                  <a className="nav-link d-flex justify-content-center" href="/dashboard">
                     View Dashboard
                   </a>
                 </li>
               ) : (
                 <li className="nav-item">
-                  <a className="nav-link" href="/login">
+                  <a className="nav-link d-flex justify-content-center" href="/login">
                     Login
                   </a>
                 </li>
               )}
               {currentUser ? (
                 <li className="nav-item">
-                  <a className="nav-link" href="/dashboard"></a>
+                  <a className="nav-link d-flex justify-content-center" href="/dashboard"></a>
                 </li>
               ) : (
                 <li className="nav-item">
-                  <a className="nav-link" href="/signup">
+                  <a className="nav-link d-flex justify-content-center" href="/signup">
                     Sign Up
                   </a>
                 </li>
@@ -58,7 +58,7 @@ const Home = () => {
           </div>
         </div>
       </nav>
-
+      </div>
       <div className="container nameshop">
   <div className="row">
     <div className="col-8 textnameshop">
@@ -71,7 +71,6 @@ const Home = () => {
     </div>
   </div>
 </div>
-      </div>
     </>
   );
 };
